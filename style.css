@@ -1,0 +1,48 @@
+* {
+    background-color: #0e1319;
+    color: #024f4b;
+}
+
+html, body {
+    height: 100%;
+}
+
+header {
+    height: 70%;
+    width: 100%;
+    float: right;
+}
+
+footer {
+    height: 30%;
+    width: 100%;
+    float: right;
+}
+
+footer input {
+    text-align: center;
+}
+
+footer, button {
+    text-align: center;
+    color: greenyellow;
+}
+
+footer button:hover {
+    text-align: center;
+    color: greenyellow;
+    cursor: pointer;
+}
+
+input {
+    background-color: gray;
+}
+
+button {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 15%;
+}
