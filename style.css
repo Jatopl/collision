@@ -1,6 +1,7 @@
 * {
     background-color: #0e1319;
     color: #024f4b;
+    -webkit-text-stroke: 0.2px rgb(84, 255, 252);
 }
 
 html, body {
@@ -29,13 +30,13 @@ footer, button {
 }
 
 footer button:hover {
-    text-align: center;
-    color: greenyellow;
     cursor: pointer;
 }
 
 input {
     background-color: gray;
+    color: black;
+    -webkit-text-stroke: 0
 }
 
 button {
@@ -44,5 +45,4 @@ button {
 
 h1 {
     text-align: center;
-    margin-top: 15%;
 }
