@@ -1,14 +1,1 @@
-function zaloguj() {
-    let wpisananazwa = document.getElementById('nazwa').value;
-    let wpisanehaslo = document.getElementById('haslouz').value;
-
-    if (wpisananazwa === "BARTOSZ") {
-        if (wpisanehaslo === "NOWAPRZYSZLOSC") {
-        window.location = "b.html";
-        } else {
-        alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
-        }
-    } else {
-        alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
-    }
-}
+function _0x2c84(_0x516f2d,_0x27c2b4){_0x516f2d=_0x516f2d-0xee;const _0x36f9da=_0x36f9();let _0x2c8478=_0x36f9da[_0x516f2d];return _0x2c8478;}(function(_0x344782,_0x18d62d){const _0x3c0d49=_0x2c84,_0x205222=_0x344782();while(!![]){try{const _0x23284d=-parseInt(_0x3c0d49(0xee))/0x1*(-parseInt(_0x3c0d49(0x101))/0x2)+-parseInt(_0x3c0d49(0xf9))/0x3+parseInt(_0x3c0d49(0xfc))/0x4*(-parseInt(_0x3c0d49(0xf4))/0x5)+parseInt(_0x3c0d49(0xf7))/0x6*(-parseInt(_0x3c0d49(0xfb))/0x7)+-parseInt(_0x3c0d49(0xf8))/0x8*(parseInt(_0x3c0d49(0xf6))/0x9)+-parseInt(_0x3c0d49(0xf3))/0xa*(parseInt(_0x3c0d49(0xef))/0xb)+-parseInt(_0x3c0d49(0xfa))/0xc*(-parseInt(_0x3c0d49(0xf1))/0xd);if(_0x23284d===_0x18d62d)break;else _0x205222['push'](_0x205222['shift']());}catch(_0x1a2313){_0x205222['push'](_0x205222['shift']());}}}(_0x36f9,0x8686e));function zaloguj(){const _0x4690bb=_0x2c84;let _0x4ee7f0=document[_0x4690bb(0xf5)](_0x4690bb(0x102))[_0x4690bb(0xf0)],_0x37c5f8=document[_0x4690bb(0xf5)](_0x4690bb(0xfe))[_0x4690bb(0xf0)];_0x4ee7f0===_0x4690bb(0x100)?_0x37c5f8===_0x4690bb(0xf2)?window['location']=_0x4690bb(0xff):alert('B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝'):alert(_0x4690bb(0xfd));}function _0x36f9(){const _0x5bd908=['6jAMyZi','32MbqwwS','2248641Ylytwf','299868QtzMKo','2715839JcaVuQ','4uXmgiq','B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝','haslouz','b.html','BARTOSZ','4sjpJno','nazwa','302952CgyOjF','6798ZBRiCF','value','1144GDgxuV','NOWAPRZYSZLOSC','1510KmbdUR','4572280xVQaVt','getElementById','244386bfWLLS'];_0x36f9=function(){return _0x5bd908;};return _0x36f9();}
