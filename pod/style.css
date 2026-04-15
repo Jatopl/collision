@@ -1,0 +1,10 @@
+* {
+    background-color: black;
+    color: greenyellow;
+}
+
+table {
+    width: 100%;
+    border: 2px;
+    border-color: greenyellow;
+}

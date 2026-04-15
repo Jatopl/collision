@@ -3,7 +3,7 @@ function wyslij() {
     let wpisaneHaslo = document.getElementById('haslo').value;
 
     if (wpisaneHaslo === poprawneHaslo) {
-        window.location = "http://codota.com";
+        window.location = "pod/2.html";
     } else {
         alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
     }
