@@ -1,6 +1,5 @@
-KURWA KLIKNIJCIE TU JEŻELI SIĘ WAM UDAŁO:
-https://jatopl.github.io/collision/
-https://jatopl.github.io/collision/
-https://jatopl.github.io/collision/
-https://jatopl.github.io/collision/
-https://jatopl.github.io/collision/
+JEŻELI UDAŁO WAM SIĘ TUTAJ DOTRZEĆ TO KLIKNIJCIE W TEN LINK:
+https://jatopl.github.io/collision/  
+https://jatopl.github.io/collision/  
+https://jatopl.github.io/collision/  
+https://jatopl.github.io/collision/  
