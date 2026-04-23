@@ -13,4 +13,13 @@ function zaloguj() {
     } else {
         alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
     }
+    if (wpisananazwa === "DJONES") {
+        if (wpisanehaslo === "LEPSZEJUTRO") {
+        window.location = "j/j.html";
+        } else {
+        alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
+        }
+    } else {
+        alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
+    }
 }
