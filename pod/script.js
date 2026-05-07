@@ -10,12 +10,15 @@ function zaloguj() {
         } else {
         alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
         }
-    } else {
-        alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
-    }
-    if (wpisananazwa === "DJONES") {
+    } else if (wpisananazwa === "DJONES") {
         if (wpisanehaslo === "LEPSZEJUTRO") {
         window.location = "j/j.html";
+        } else {
+        alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
+        }
+    } else if (wpisananazwa === "ELRARZADZI") {
+        if (wpisanehaslo === "NOWYDZIENNOWAJA") {
+        window.location = "e/e.html";
         } else {
         alert("B̷̦͚̳̰̟͇̎͋ł̶̨̡͉͙̯̦̙͕̇̅͑̏̏͊͋̅̕̚ą̷̢̳̩͉̫̫̠̝̇͆̒̄d̶͇͈̠̹̬͊̓̅̃͝");
         }
